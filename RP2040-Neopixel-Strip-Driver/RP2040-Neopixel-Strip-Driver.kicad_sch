@@ -43,6 +43,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4a3de707-ad0d-490f-a465-19f67df8b238"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7e10e8e5-d9a2-48d2-a997-2ca5513d7d1b"
+      (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a16548f7-25d8-405e-bb91-6be4fcb09e79"
       (reference "#PWR0202") (unit 1) (value "GND") (footprint "")
     )
@@ -66,6 +69,9 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7fc188ce-eb56-45e0-831d-c8786e01ade2"
       (reference "#PWR0209") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/89dbb92b-6d0e-4816-8853-33d9b25f30f9"
+      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7eecaeb2-49d9-47c9-bacc-98c8bf1f223a"
       (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
@@ -157,8 +163,14 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ecf36bab-ced8-400e-bc10-6d423f8e886b"
       (reference "C206") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/59fc31e5-7dd9-491e-a5a8-84ea6941dfb2"
+      (reference "C207") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/651d517d-b50c-4ffe-9b01-dce39b952dee"
       (reference "C208") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ab0d710c-d1f1-475a-9db3-2153605ad325"
+      (reference "C209") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1b221496-fa0c-4ce8-ab9c-137cd3f946ff"
       (reference "C212") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
@@ -196,6 +208,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/cf971eb4-33e0-40c5-9723-72551e79da0b"
       (reference "D205") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a597340f-1704-44cc-b472-d2d7a998df4d"
+      (reference "F201") (unit 1) (value "1.5A, 3A Trip") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ab6c60ed-46fb-48ec-9ad2-ffcf3f3a00fe"
       (reference "J201") (unit 1) (value "TYPE-C-31-M-12") (footprint "TYPE-C-31-M-12:HRO_TYPE-C-31-M-12")
     )
@@ -204,6 +219,15 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b3923c47-0bfb-4144-bc16-8d256e3f64e1"
       (reference "J203") (unit 1) (value "NeopixelStrip") (footprint "Breadstick Footprints:NeopixelStrip")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1ddd77b1-7b84-4ac4-b2fb-8ca0f1d74bc4"
+      (reference "J204") (unit 1) (value "5V") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/20d2f511-b536-476d-b347-d6e33e340a4d"
+      (reference "J205") (unit 1) (value "TO BE DECIDED") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/563570b2-0528-45e0-bb17-d95f381ea295"
+      (reference "J206") (unit 1) (value "GND") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/97c99fad-afb5-471e-b90a-b7f0de492c8f"
       (reference "R201") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
