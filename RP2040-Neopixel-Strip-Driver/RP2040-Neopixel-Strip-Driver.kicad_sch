@@ -67,9 +67,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7fc188ce-eb56-45e0-831d-c8786e01ade2"
       (reference "#PWR0209") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/5e2b2ec8-8428-4a21-a2b0-897cff7070ab"
-      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7eecaeb2-49d9-47c9-bacc-98c8bf1f223a"
       (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
     )
@@ -159,9 +156,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ecf36bab-ced8-400e-bc10-6d423f8e886b"
       (reference "C206") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/131902a5-a30b-4e46-b0b7-d4d9db46684e"
-      (reference "C207") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/651d517d-b50c-4ffe-9b01-dce39b952dee"
       (reference "C208") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
