@@ -443,7 +443,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RP2040 Dev Board.kicad_pro",
+    "filename": "RP2040-Neopixel-Strip-Driver.kicad_pro",
     "version": 1
   },
   "net_settings": {

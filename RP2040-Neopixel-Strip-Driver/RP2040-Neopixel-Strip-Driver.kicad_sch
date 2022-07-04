@@ -43,9 +43,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4a3de707-ad0d-490f-a465-19f67df8b238"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/fdcb8311-3d98-478c-849d-419c05a8ccb5"
-      (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a16548f7-25d8-405e-bb91-6be4fcb09e79"
       (reference "#PWR0202") (unit 1) (value "GND") (footprint "")
     )
@@ -81,9 +78,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/043885bd-7457-4037-9a49-b7423182d0d7"
       (reference "#PWR0213") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/8c593cca-3772-4a8f-b1b3-9c5eca8b3112"
-      (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/0697cf2d-5bde-4d22-b531-1987bc5be453"
       (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
@@ -172,12 +166,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/651d517d-b50c-4ffe-9b01-dce39b952dee"
       (reference "C208") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/008b2ae2-156b-4406-90d0-c10b5844ed31"
-      (reference "C209") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1785fcf6-6f2f-4407-8235-be85fc91edba"
-      (reference "C210") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1b221496-fa0c-4ce8-ab9c-137cd3f946ff"
       (reference "C212") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
@@ -248,13 +236,13 @@
       (reference "SW202") (unit 1) (value "~{USB_BOOT}") (footprint "Breadstick Footprints:GT-TC029B-H025-L1N")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/00c3344e-81e0-498f-aca3-32f690281efd"
-      (reference "U201") (unit 1) (value "AZ1117R-3.3TRE1") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+      (reference "U201") (unit 1) (value "XC6206P332MR") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/86571f4c-c84c-47ae-bd38-d99869d3970f"
       (reference "U202") (unit 1) (value "RP2040") (footprint "RP2040:QFN40P700X700X90-57N")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/8f8c3994-cfe5-41ee-9a95-230dd401860d"
-      (reference "U205") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U205") (unit 1) (value "W25Q128JVPIQ") (footprint "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/2a22be26-a817-4ed8-b112-95aa7d11fc7c"
       (reference "Y201") (unit 1) (value "Crystal_GND24") (footprint "X322516MLB4SI:OSC_X322516MLB4SI")
