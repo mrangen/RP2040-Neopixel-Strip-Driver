@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0565f05c-345c-454a-ae54-8c518e2a1fb0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Shenzhen Nsiway Tech\nNS4150B\nC189961\nMSOP-8_3.0x3.0x0.65P\n3W x 1 @ 4Ω 3V ~ 5.25V Class D MSOP-8  Audio Power OpAmps ROHS"
+    (at 17.78 147.32 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2003b036-8b3c-4aca-b184-4e1151380b3d)
+  )
+  (text "CircuitPython will output MP3 over PWM, Mixer object will control volume.\n"
+    (at 17.78 132.08 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ca70e002-4243-41a1-b590-e8fb413bc3c2)
+  )
+)

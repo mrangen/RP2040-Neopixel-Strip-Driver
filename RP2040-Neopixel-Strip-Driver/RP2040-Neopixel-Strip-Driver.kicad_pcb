@@ -1743,7 +1743,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 59FED5CB) (tstamp 3d32bc6f-e10b-4634-90e1-adddc82ea8e6)
-    (at 182.98 53.906 -90)
+    (at 104.775 106.625 -90)
     (descr "Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row")
     (tags "Through hole angled pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -2394,7 +2394,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp e00879a7-7230-4693-b58b-7db2db577027))
     (pad "1" thru_hole rect locked (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp f3b1bdf1-46c8-4ae2-ba32-7b3582bb48dc))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3235,7 +3235,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp e46ae35a-f323-4361-a350-be93509cd4e7))
     (pad "1" thru_hole rect locked (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 57 "VBUS") (pinfunction "Pin_1") (pintype "passive") (tstamp 3bb2fb73-cb40-420c-8fe8-bd131866af72))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3765,7 +3765,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 5A19A434) (tstamp e25ce415-914a-48fe-bf09-324317917b2e)
-    (at 175.89 31.59)
+    (at 112.965 110.225)
     (descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x01 2.54mm single row")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -6250,7 +6250,7 @@
 
   (footprint "Breadstick Footprints:NeopixelStrip" (layer "B.Cu")
     (tedit 0) (tstamp eb0c548f-0725-484d-adbb-bf9e1a3f3ddf)
-    (at 146.91 31.04 180)
+    (at 146.95 31.65 180)
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b3923c47-0bfb-4144-bc16-8d256e3f64e1")

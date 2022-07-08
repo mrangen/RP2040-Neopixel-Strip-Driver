@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e3496735-4bd0-4422-bd78-4fd7d41faae1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Goertek\nS15OT421-005\nC2684419\nMIC-SMD\nSMD,2.75x1.85x0.95mm  MEMS Microphones ROHS"
+    (at 54.61 154.94 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8f3757f7-d42d-41d0-9d2e-34aa68ac7092)
+  )
+)

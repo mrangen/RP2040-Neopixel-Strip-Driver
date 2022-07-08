@@ -529,6 +529,30 @@
     [
       "3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc",
       "RP2040"
+    ],
+    [
+      "70fbb85f-3163-4abc-9c0a-a891d94f22b1",
+      "Inertial Measurement Unit"
+    ],
+    [
+      "0a22e777-1680-4ad6-bc95-a4eb9dcd85fc",
+      "Audio"
+    ],
+    [
+      "0df4e21b-e0d5-4c43-99fc-07b3ff9e029e",
+      "Power"
+    ],
+    [
+      "f6d3734f-f3ae-47ca-9988-e728219f2f3d",
+      "uSD Card"
+    ],
+    [
+      "7d3ce60b-0fbc-4d1c-8ad6-57910cd4368e",
+      "Neopixel Driver"
+    ],
+    [
+      "84db7bec-6432-452c-8477-921546ad9ffb",
+      "Microphone"
     ]
   ],
   "text_variables": {}
