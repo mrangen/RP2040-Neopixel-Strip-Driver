@@ -343,6 +343,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/8f8c3994-cfe5-41ee-9a95-230dd401860d"
       (reference "U205") (unit 1) (value "W25Q128JVPIQ") (footprint "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm")
     )
+    (path "/84db7bec-6432-452c-8477-921546ad9ffb/3ac9fd70-7920-4300-b1d6-7d56e8e9a95e"
+      (reference "U?") (unit 1) (value "S15OT421-005") (footprint "")
+    )
     (path "/70fbb85f-3163-4abc-9c0a-a891d94f22b1/cdfffdd0-a453-4bd1-a6a1-94448da82674"
       (reference "U?") (unit 1) (value "LSM6DS3TR") (footprint "digikey-footprints:LGA-14L_2.5x3mm__LSM6DS3")
     )
