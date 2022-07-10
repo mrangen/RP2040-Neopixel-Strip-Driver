@@ -116,7 +116,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3ac9fd70-7920-4300-b1d6-7d56e8e9a95e)
     (property "Reference" "U?" (id 0) (at 87.63 132.08 0))
-    (property "Value" "" (id 1) (at 87.63 134.62 0))
+    (property "Value" "S15OT421-005" (id 1) (at 87.63 134.62 0))
     (property "Footprint" "" (id 2) (at 78.74 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )

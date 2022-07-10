@@ -4,4 +4,5 @@
   (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/X322516MLB4SI")(options "")(descr ""))
   (lib (name "NLSX4302EBMUTCG")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/ul_NLSX4302EBMUTCG/KiCAD/2022-07-05_04-37-41/footprints.pretty")(options "")(descr ""))
   (lib (name "TF-01A")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TF-01A")(options "")(descr ""))
+  (lib (name "DRV8837CDSGR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/DRV8837CDSGR")(options "")(descr ""))
 )

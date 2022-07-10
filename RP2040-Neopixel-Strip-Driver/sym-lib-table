@@ -4,4 +4,5 @@
   (lib (name "NLSX4302EBMUTCG")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/ul_NLSX4302EBMUTCG/KiCAD/2022-07-05_04-37-41/2022-07-05_04-37-41.lib")(options "")(descr ""))
   (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C/LSM6DS3TR-C.lib")(options "")(descr ""))
   (lib (name "TF-01A")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TF-01A/TF-01A.lib")(options "")(descr ""))
+  (lib (name "DRV8837CDSGR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/DRV8837CDSGR/DRV8837CDSGR.lib")(options "")(descr ""))
 )

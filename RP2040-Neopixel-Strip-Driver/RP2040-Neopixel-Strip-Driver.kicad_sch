@@ -91,6 +91,18 @@
     )
   )
 
+  (sheet (at 144.78 130.81) (size 57.15 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 855ed567-09e1-4ac3-90b0-f7e25f211a13)
+    (property "Sheet name" "Motor Driver" (id 0) (at 144.78 130.0984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "DRV8837CDSGR.kicad_sch" (id 1) (at 144.78 163.1446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 82.55 71.12) (size 54.61 40.64) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -112,6 +124,7 @@
     (path "/f6d3734f-f3ae-47ca-9988-e728219f2f3d" (page "6"))
     (path "/7d3ce60b-0fbc-4d1c-8ad6-57910cd4368e" (page "7"))
     (path "/84db7bec-6432-452c-8477-921546ad9ffb" (page "8"))
+    (path "/855ed567-09e1-4ac3-90b0-f7e25f211a13" (page "9"))
   )
 
   (symbol_instances
@@ -345,6 +358,9 @@
     )
     (path "/84db7bec-6432-452c-8477-921546ad9ffb/3ac9fd70-7920-4300-b1d6-7d56e8e9a95e"
       (reference "U?") (unit 1) (value "S15OT421-005") (footprint "")
+    )
+    (path "/855ed567-09e1-4ac3-90b0-f7e25f211a13/a4fd550c-a752-48e0-8fc2-29b1df7424eb"
+      (reference "U?") (unit 1) (value "DRV8837CDSGR") (footprint "SON50P200X200X80-9N")
     )
     (path "/70fbb85f-3163-4abc-9c0a-a891d94f22b1/cdfffdd0-a453-4bd1-a6a1-94448da82674"
       (reference "U?") (unit 1) (value "LSM6DS3TR") (footprint "digikey-footprints:LGA-14L_2.5x3mm__LSM6DS3")
