@@ -128,9 +128,6 @@
   )
 
   (symbol_instances
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7e10e8e5-d9a2-48d2-a997-2ca5513d7d1b"
-      (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/41b19538-2f1d-4788-95f5-72d0756328d4"
       (reference "#PWR0204") (unit 1) (value "GND") (footprint "")
     )
@@ -145,9 +142,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/c7331b66-329c-4f83-a36b-ba56d5354c36"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/89dbb92b-6d0e-4816-8853-33d9b25f30f9"
-      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7eecaeb2-49d9-47c9-bacc-98c8bf1f223a"
       (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
@@ -218,6 +212,9 @@
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/133a7e37-edd9-4edc-a4f0-22cbd64e0f01"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/458bddeb-5db8-4bf1-aa66-b71d3019ccda"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/8ea18563-8d92-48ab-81f4-e90c6181f6de"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -248,14 +245,8 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ecf36bab-ced8-400e-bc10-6d423f8e886b"
       (reference "C206") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/59fc31e5-7dd9-491e-a5a8-84ea6941dfb2"
-      (reference "C207") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/651d517d-b50c-4ffe-9b01-dce39b952dee"
       (reference "C208") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ab0d710c-d1f1-475a-9db3-2153605ad325"
-      (reference "C209") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1b221496-fa0c-4ce8-ab9c-137cd3f946ff"
       (reference "C212") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
@@ -281,8 +272,14 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/527ab700-d400-437d-a8eb-3049c5635be2"
       (reference "C222") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/2d76d44e-bef1-4a6c-b61d-cfdeee548ee5"
+      (reference "C?") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
+    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/39a26a78-8547-46f2-a5ba-4003e44b000d"
       (reference "C?") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/9c0ddb4c-ac6d-42f4-a332-933b537f3b43"
+      (reference "C?") (unit 1) (value "220uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/104bcd73-742e-4c1f-9bf7-0f64c646c2b1"
       (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
@@ -304,15 +301,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b3923c47-0bfb-4144-bc16-8d256e3f64e1"
       (reference "J203") (unit 1) (value "NeopixelStrip") (footprint "Breadstick Footprints:NeopixelStrip")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1ddd77b1-7b84-4ac4-b2fb-8ca0f1d74bc4"
-      (reference "J204") (unit 1) (value "5V") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/20d2f511-b536-476d-b347-d6e33e340a4d"
-      (reference "J205") (unit 1) (value "TO BE DECIDED") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/563570b2-0528-45e0-bb17-d95f381ea295"
-      (reference "J206") (unit 1) (value "GND") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/7f6c4566-a90c-4b24-a3a4-7c0b57ef5f10"
       (reference "J?") (unit 1) (value "TYPE-C-31-M-12") (footprint "TYPE-C-31-M-12:HRO_TYPE-C-31-M-12")
