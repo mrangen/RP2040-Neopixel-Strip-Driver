@@ -128,9 +128,6 @@
   )
 
   (symbol_instances
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4a3de707-ad0d-490f-a465-19f67df8b238"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/7e10e8e5-d9a2-48d2-a997-2ca5513d7d1b"
       (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
     )
@@ -209,10 +206,7 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b4f900e4-84c8-42d9-aa0d-896c068cbb02"
       (reference "#PWR0241") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b1e48e74-0b89-45d0-891a-1ee321080ad4"
-      (reference "#PWR0243") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/02fe7830-e856-472d-9dc9-dbb0dfb8d230"
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/0524894f-7958-4899-8e63-ad106850423c"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/11da7628-8f29-42d4-862e-2ff4a3a6e6d2"
@@ -221,13 +215,16 @@
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/124d8580-0c6e-4f74-a3f6-c1b481c12048"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/133a7e37-edd9-4edc-a4f0-22cbd64e0f01"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/8ea18563-8d92-48ab-81f4-e90c6181f6de"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/92325a49-a243-42dd-8200-86da24c16ea6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/ac6e8db7-cb17-4213-9dc2-35024ddcf025"
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/bd9e7851-ccb2-4617-ba3b-e445716ae6f3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/c474f2fc-4141-4cc8-b3f6-c5779d2f584a"
@@ -287,16 +284,16 @@
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/39a26a78-8547-46f2-a5ba-4003e44b000d"
       (reference "C?") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/eb323ef0-b2b9-4c99-b925-cfa5eba50e83"
-      (reference "D201") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/989168ee-de64-4aa8-a77b-802eb838f254"
-      (reference "D202") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
-    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/104bcd73-742e-4c1f-9bf7-0f64c646c2b1"
       (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/75f5ad2d-5e5e-4e6a-9264-49e492912441"
+      (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/77ec979a-bbed-4878-a6e4-46946d314fef"
+      (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/9df2190e-9f4b-4de2-a2c1-29d7053ab6c9"
       (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/5b07872e-b27e-4988-a173-ade7c73f0525"
