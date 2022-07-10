@@ -338,6 +338,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/8f8c3994-cfe5-41ee-9a95-230dd401860d"
       (reference "U205") (unit 1) (value "W25Q128JVPIQ") (footprint "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm")
     )
+    (path "/0a22e777-1680-4ad6-bc95-a4eb9dcd85fc/05b976e4-8f1b-44c2-be5c-202cab2818fb"
+      (reference "U401") (unit 1) (value "NS4150B") (footprint "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias")
+    )
     (path "/84db7bec-6432-452c-8477-921546ad9ffb/3ac9fd70-7920-4300-b1d6-7d56e8e9a95e"
       (reference "U?") (unit 1) (value "S15OT421-005") (footprint "")
     )
