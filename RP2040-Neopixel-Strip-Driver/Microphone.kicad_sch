@@ -6,10 +6,10 @@
 
   (lib_symbols
     (symbol "BreadstickLibrary:S15OT421-005" (in_bom yes) (on_board yes)
-      (property "Reference" "U" (id 0) (at -2.54 8.89 0)
+      (property "Reference" "U?" (id 0) (at -1.27 10.16 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "S15OT421-005" (id 1) (at -2.54 6.35 0)
+      (property "Value" "S15OT421-005" (id 1) (at -1.27 7.62 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (id 2) (at -10.16 3.81 0)
@@ -39,7 +39,7 @@
       (symbol "S15OT421-005_0_1"
         (rectangle (start -10.16 5.08) (end 7.62 -7.62)
           (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
+          (fill (type background))
         )
         (circle (center -8.89 -1.016) (radius 0.4579)
           (stroke (width 0) (type default) (color 0 0 0 0))

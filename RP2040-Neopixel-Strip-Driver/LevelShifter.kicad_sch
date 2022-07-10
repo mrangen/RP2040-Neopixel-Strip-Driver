@@ -6,13 +6,13 @@
 
   (lib_symbols
     (symbol "NLSX4302EBMUTCG:NLSX4302EBMUTCG" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
-      (property "Reference" "U101" (id 0) (at 21.59 1.27 0)
+      (property "Reference" "U?" (id 0) (at 21.59 1.27 0)
         (effects (font (size 1.524 1.524)))
       )
       (property "Value" "NLSX4302EBMUTCG" (id 1) (at 21.59 -1.27 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "NLSX4302EBMUTCG:NLSX4302EBMUTCG" (id 2) (at 22.86 8.636 0)
+      (property "Footprint" "NLSX4302EBMUTCG:NLSX4302EBMUTCG" (id 2) (at 22.86 8.89 0)
         (effects (font (size 1.524 1.524)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -28,37 +28,9 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "NLSX4302EBMUTCG_1_1"
-        (polyline
-          (pts
-            (xy 7.62 -22.86)
-            (xy 38.1 -22.86)
-          )
-          (stroke (width 0.127) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 7.62 7.62)
-            (xy 7.62 -22.86)
-          )
-          (stroke (width 0.127) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 38.1 -22.86)
-            (xy 38.1 7.62)
-          )
-          (stroke (width 0.127) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 38.1 7.62)
-            (xy 7.62 7.62)
-          )
-          (stroke (width 0.127) (type default) (color 0 0 0 0))
-          (fill (type none))
+        (rectangle (start 7.62 7.62) (end 38.1 -22.86)
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type background))
         )
         (pin input line (at 0 5.08 0) (length 7.62)
           (name "VL" (effects (font (size 1.4986 1.4986))))
@@ -111,7 +83,7 @@
     (property "Value" "NLSX4302EBMUTCG" (id 1) (at 101.6 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "NLSX4302EBMUTCG:NLSX4302EBMUTCG" (id 2) (at 102.87 65.024 0)
+    (property "Footprint" "NLSX4302EBMUTCG:NLSX4302EBMUTCG" (id 2) (at 102.87 64.77 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 80.01 73.66 0)
