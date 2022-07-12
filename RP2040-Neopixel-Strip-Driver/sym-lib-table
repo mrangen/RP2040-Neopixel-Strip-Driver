@@ -5,4 +5,5 @@
   (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C/LSM6DS3TR-C.lib")(options "")(descr ""))
   (lib (name "TF-01A")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TF-01A/TF-01A.lib")(options "")(descr ""))
   (lib (name "DRV8837CDSGR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/DRV8837CDSGR/DRV8837CDSGR.lib")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/Pico W/RPi_Pico.kicad_sym")(options "")(descr ""))
 )

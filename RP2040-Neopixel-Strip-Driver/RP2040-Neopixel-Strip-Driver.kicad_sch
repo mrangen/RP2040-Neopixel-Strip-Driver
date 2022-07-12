@@ -103,6 +103,18 @@
     )
   )
 
+  (sheet (at 215.9 17.78) (size 52.07 40.64) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9eb4c32c-a62b-416a-a386-ea1abd0b0a0d)
+    (property "Sheet name" "Pico W" (id 0) (at 215.9 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Pico_W.kicad_sch" (id 1) (at 215.9 59.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 146.05 71.12) (size 54.61 40.64) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -125,6 +137,7 @@
     (path "/7d3ce60b-0fbc-4d1c-8ad6-57910cd4368e" (page "7"))
     (path "/84db7bec-6432-452c-8477-921546ad9ffb" (page "8"))
     (path "/855ed567-09e1-4ac3-90b0-f7e25f211a13" (page "9"))
+    (path "/9eb4c32c-a62b-416a-a386-ea1abd0b0a0d" (page "10"))
   )
 
   (symbol_instances
@@ -349,6 +362,9 @@
     )
     (path "/0a22e777-1680-4ad6-bc95-a4eb9dcd85fc/05b976e4-8f1b-44c2-be5c-202cab2818fb"
       (reference "U401") (unit 1) (value "NS4150B") (footprint "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias")
+    )
+    (path "/9eb4c32c-a62b-416a-a386-ea1abd0b0a0d/24ac02ec-8a53-456a-a170-281da5659eb0"
+      (reference "U?") (unit 1) (value "PicoW") (footprint "Pico W:RPi_PicoW_SMD_TH")
     )
     (path "/84db7bec-6432-452c-8477-921546ad9ffb/3ac9fd70-7920-4300-b1d6-7d56e8e9a95e"
       (reference "U?") (unit 1) (value "S15OT421-005") (footprint "")

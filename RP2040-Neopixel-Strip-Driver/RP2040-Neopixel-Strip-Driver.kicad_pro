@@ -557,6 +557,10 @@
     [
       "855ed567-09e1-4ac3-90b0-f7e25f211a13",
       "Motor Driver"
+    ],
+    [
+      "9eb4c32c-a62b-416a-a386-ea1abd0b0a0d",
+      "Pico W"
     ]
   ],
   "text_variables": {}
