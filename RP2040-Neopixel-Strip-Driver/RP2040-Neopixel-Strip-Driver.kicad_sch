@@ -140,9 +140,6 @@
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/124d8580-0c6e-4f74-a3f6-c1b481c12048"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/133a7e37-edd9-4edc-a4f0-22cbd64e0f01"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/458bddeb-5db8-4bf1-aa66-b71d3019ccda"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -150,9 +147,6 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/92325a49-a243-42dd-8200-86da24c16ea6"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/bd9e7851-ccb2-4617-ba3b-e445716ae6f3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/c474f2fc-4141-4cc8-b3f6-c5779d2f584a"
@@ -188,14 +182,8 @@
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/75f5ad2d-5e5e-4e6a-9264-49e492912441"
       (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/77ec979a-bbed-4878-a6e4-46946d314fef"
-      (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
-    )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/8c872ef3-cd1d-4b0d-96d3-51a74e92ff52"
       (reference "D?") (unit 1) (value "SK106C") (footprint "Diode_SMD:D_SMC")
-    )
-    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/9df2190e-9f4b-4de2-a2c1-29d7053ab6c9"
-      (reference "D?") (unit 1) (value "ESD_TVS") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
     (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/5b07872e-b27e-4988-a173-ade7c73f0525"
       (reference "F?") (unit 1) (value "1.5A, 3A Trip") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -235,6 +223,9 @@
     )
     (path "/84db7bec-6432-452c-8477-921546ad9ffb/3ac9fd70-7920-4300-b1d6-7d56e8e9a95e"
       (reference "U?") (unit 1) (value "S15OT421-005") (footprint "")
+    )
+    (path "/0df4e21b-e0d5-4c43-99fc-07b3ff9e029e/747ca026-4366-43f1-941a-776f3f7b476b"
+      (reference "U?") (unit 1) (value "TPS5430DDAR") (footprint "TPS5430DDAR:CONV_TPS5430DDAR")
     )
     (path "/855ed567-09e1-4ac3-90b0-f7e25f211a13/a4fd550c-a752-48e0-8fc2-29b1df7424eb"
       (reference "U?") (unit 1) (value "DRV8837CDSGR") (footprint "SON50P200X200X80-9N")

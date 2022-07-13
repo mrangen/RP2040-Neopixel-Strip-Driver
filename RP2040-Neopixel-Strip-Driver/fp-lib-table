@@ -6,4 +6,5 @@
   (lib (name "TF-01A")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TF-01A")(options "")(descr ""))
   (lib (name "DRV8837CDSGR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/DRV8837CDSGR")(options "")(descr ""))
   (lib (name "Pico W")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/Pico W")(options "")(descr ""))
+  (lib (name "TPS5430DDAR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TPS5430DDAR")(options "")(descr ""))
 )
